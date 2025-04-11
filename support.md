@@ -61,8 +61,7 @@ Personal Voice is available in English and Mandarin Chinese (China mainland).
 
 ## 🔒 Privacy & Terms
 
-- [Privacy Policy](https://yourusername.github.io/pray-privacy-policy)
-- [Terms of Use](https://yourusername.github.io/pray-terms)
+- [Privacy Policy]([https://raw.githubusercontent.com/tuzcuumut/pray-bible-docs/refs/heads/main/support.md])
 
 ---
 
