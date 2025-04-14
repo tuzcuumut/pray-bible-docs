@@ -61,7 +61,8 @@ Personal Voice is available in English and Mandarin Chinese (China mainland).
 
 ## 🔒 Privacy & Terms
 
-- [Privacy Policy]([https://raw.githubusercontent.com/tuzcuumut/pray-bible-docs/refs/heads/main/support.md])
+- [Privacy Policy]([https://tuzcuumut.github.io/pray-bible-privacy-policy/])
+- [Terms of Use]([https://www.apple.com/legal/internet-services/itunes/dev/stdeula/])
 
 ---
 
